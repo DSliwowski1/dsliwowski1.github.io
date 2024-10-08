@@ -1,2 +1,2 @@
 # dsliwowski1.github.io
-Home webpage
+Personal webpage for Daniel Sliwowski
