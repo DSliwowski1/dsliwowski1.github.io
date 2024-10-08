@@ -2,7 +2,7 @@
   title: "ConditionNET: Learning Preconditions and Effects for Anomaly Detection and Recovery"
   venue: Under submission
   description: "Learn Preconditions and Effects of actions in a data-driven manner, and leverage the learned conditions for anomaly detection"
-  project_page: "WIP"
+  project_page: https://dsliwowski1.github.io/ConditionNET_page
   arxiv: Soon
   image: ConditionNet.png
   authors:
