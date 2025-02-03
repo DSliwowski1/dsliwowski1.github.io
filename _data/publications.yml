@@ -2,8 +2,8 @@
   title: "Multimodal Transformer Models for Human Action Classification"
   venue: 
   description: "We investigate how best to fuse multimodal information for the task of human action recognition."
-  project_page: NotAvaiable
-  arxiv: NotAvaiable
+  # project_page: NotAvaiable
+  # arxiv: NotAvaiable
   image: Rita_HAR.png
   authors:
     - zvarga
