@@ -1,7 +1,7 @@
 danielsli:
   first_name: Daniel
   last_name: Sliwowski
-  website: https://www.tuwien.at/en/etit/ict/asl/team/daniel-sliwowski
+  website: https://dsliwowski1.github.io/
   is_me: true
 esteve:
   first_name: Esteve
@@ -19,3 +19,19 @@ zvarga:
   first_name: Zoltan 
   last_name: Varga
   website: 
+sjadav:
+  first_name: Shail
+  last_name: Jadav
+  website: https://shailjadav.github.io/
+jheidersberger:
+  first_name: Johannes
+  last_name: Heidersberger
+  website: https://www.tuwien.at/etit/ict/asl/team/johannes-heidersberger
+sstanovcic:
+  first_name: Sergej
+  last_name: Stanovcic
+  website: 
+jorbik:
+  first_name: Jedrzej
+  last_name: Orbik
+  website: https://orbik.me/

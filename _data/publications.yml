@@ -1,3 +1,18 @@
+- id: REASSEMBLE
+  title: "REASSEMBLE: A Multimodal Dataset for Contact-rich Robotic Assembly and Disassembly"
+  venue: Preprint
+  description: "We release a multimodal dataset for long-horizon contact-rich assembly and disassembly tasks"
+  project_page: https://dsliwowski1.github.io/REASSEMBLE_page/
+  # arxiv: NotAvaiable
+  image: REASSEMBLE.png
+  authors:
+    - danielsli
+    - sjadav
+    - sstanovcic
+    - jheidersberger
+    - jorbik
+    - dongheuilee
+
 - id: RiTA_HAR
   title: "Multimodal Transformer Models for Human Action Classification"
   venue: RiTA 2024
@@ -18,7 +33,7 @@
   venue: IEEE Robotics and Automation Letters
   description: "Learn Preconditions and Effects of actions in a data-driven manner, and leverage the learned conditions for anomaly detection."
   project_page: https://dsliwowski1.github.io/ConditionNET_page
-  arxiv: Soon
+  arxiv: 2502.01167
   image: ConditionNet.png
   authors:
     - danielsli
