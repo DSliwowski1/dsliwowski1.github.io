@@ -3,7 +3,7 @@
   venue: Preprint
   description: "We release a multimodal dataset for long-horizon contact-rich assembly and disassembly tasks"
   project_page: https://dsliwowski1.github.io/REASSEMBLE_page/
-  # arxiv: NotAvaiable
+  arxiv: 2502.05086
   image: REASSEMBLE.png
   authors:
     - danielsli
